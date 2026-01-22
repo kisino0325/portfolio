@@ -33,6 +33,7 @@
  ![図書館](images/tosyobenn.png)
  - 開発環境　ティラノビルダー
  - 開発期間　2025/7/17～2025/10/30
+ - https://novelgame.jp/games/show/13034
  
  # 連絡先
  - X:@Kisinoryouta
